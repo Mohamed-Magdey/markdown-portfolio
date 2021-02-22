@@ -1,0 +1,1 @@
+My main stack is _MERN(**MongoBD, Express.js, React.js, Node.js**)_.
